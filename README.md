@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ns3098&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ns3098&show_icons=true&theme=tokyonight&line_height=27"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ns3098&hide=css,java,html&theme=tokyonight">
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -26,8 +26,9 @@
   </p>
 </p>
 <p>
-<br><br><br>
+<br> <br>
 
+- 👨 Currently working as Product Engineer at [Stylumia](https://www.linkedin.com/company/stylumia/mycompany/).
 - 🔭 I’m currently working on Distributed Crawler(Scrapy + Redis + AWS), Django and GraphQL along with Reactjs.
 - 🌱 I’m currently learning about load balancing, stress testing and data pipelining.
 - 💬 Ask me about WebScraping(Scrapy, along with some advanced topics like proxy-rotation), Django or GraphQL.
