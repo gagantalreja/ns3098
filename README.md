@@ -3,7 +3,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ns3098&show_icons=true&theme=tokyonight&line_height=27"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ns3098&hide=css,java,html&theme=tokyonight">
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-pycharm-0000A0?style=flat-square&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/-atom-66595C?style=flat-square&logo=atom&logoColor=white"/>
